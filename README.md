@@ -11,6 +11,9 @@
 ◦ Achieved intelligent user interaction with styled avatars, session continuity, and confidence scoring, enhancing customer experience and support automation.
 <br>
 
+# Simulation Video
+[Click here to view Simulation of Customer Support Chatbot](https://console.groq.com/)
+
 # 🤖 Chatbot Setup Guide
 
 This guide walks you through the steps required to set up and run the chatbot locally using Streamlit and Groq LLM.
