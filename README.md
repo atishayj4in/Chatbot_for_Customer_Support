@@ -1,8 +1,15 @@
 # Chatbot for Customer Support
 ![Chatbot_for_Customer_Support.jpg](Chatbot_for_Customer_Support.jpg)
-◦Engineered a Chatbot for Customer Support using Machine Learning
+◦ Built an AI-powered customer support chatbot capable of answering real-world queries using Retrieval-Augmented Generation (RAG) and LLM integration.
 <br>
-◦Coming Soon
+◦ Designed and implemented an intent generation pipeline to convert 100K+ tweet-based support data into structured JSON formats.
+<br>
+◦ Leveraged FAISS and HuggingFace sentence embeddings to store and retrieve contextually relevant responses efficiently.
+<br>
+◦ Integrated Groq’s LLaMA3-70B API via LangChain to generate polite, accurate, and grounded answers within a Streamlit-based chat interface.
+<br>
+◦ Achieved intelligent user interaction with styled avatars, session continuity, and confidence scoring, enhancing customer experience and support automation.
+<br>
 
 # 🤖 Chatbot Setup Guide
 
