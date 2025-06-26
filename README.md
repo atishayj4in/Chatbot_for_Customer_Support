@@ -4,18 +4,6 @@
 <br>
 ◦Coming Soon
 
-
-Procedure to run Chatbot-
-1. Create a virtual environment and install all the dependencies enclosed in requirements.txt
-2. Create a groq api key and enter it in .env and connect_memory_with_llm.py files. I have put a comment wherever you need to paste your api key.
-3. Put data csv file in data folder. (I already have a customer data of 1,00,000 rows.
-4. Run intent_generation.py to create intents.json.
-5. Run create_memory_for_llm. It will create a database to store vectors. (it may take some time)
-6. Run chatbot.py (Enter streamlit run chatbot.py to open chatbot in local host)
-
-The final structure may look like this
-
-
 # 🤖 Chatbot Setup Guide
 
 This guide walks you through the steps required to set up and run the chatbot locally using Streamlit and Groq LLM.
