@@ -120,15 +120,21 @@ You can now interact, test, and enhance it as needed.
 ## 📁 Project Structure Overview
 
 ```plaintext
-├── chatbot.py
-├── connect_memory_with_llm.py
-├── create_memory_for_llm.py
-├── intent_generation.py
-├── requirements.txt
-├── .env
 ├── data/
-│   └── customer_data.csv
-├── vector/
-│   └── faiss_index (auto-created)
-└── intents.json (auto-created)
+│   └── chatbot_data.csv
+│   └── intents.json
+│
+├── vectorstore/
+│   └── db_faiss/
+│       └── index.faiss
+│       └── index.pkl
+│
+├── venv/                          # Virtual environment folder
+│
+├── .env                           # Environment file with Groq API key
+├── chatbot.py                     # Main chatbot launcher (Streamlit)
+├── connect_memory_with_llm.py     # Connects LLM with vector DB
+├── create_memory_for_llm.py       # Script to generate vector memory
+├── intent_generation.py           # Generates intents.json from CSV
+├── requirements.txt               # Python dependencies
 ```
