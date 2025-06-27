@@ -14,7 +14,7 @@
 ---
 # 🎛️ Chatbot Simulation
 <p align="left">
-<a href="https://www.linkedin.com/posts/atishayj4in_machinelearning-chatbot-nlp-activity-7344230684179296256-Pj50?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD8joikBd1j6RXvxOqvbRCq4hne7WY7vvcY" target="blank"><img align="center" src="chatbot_ui.png" alt="Click here to view Chatbot Simulation Video" height="100%" width="100%" /></a>
+<a href="https://youtu.be/_EDkwbUeWZs?si=c-WnGQFxeSmD3kQA" target="blank"><img align="center" src="chatbot_ui.png" alt="Click here to view Chatbot Simulation Video" height="100%" width="100%" /></a>
     
 ---
 
