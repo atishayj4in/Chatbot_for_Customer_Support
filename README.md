@@ -15,7 +15,9 @@
 <h2 align="left">Simulation:</h3>
 <p align="left">
 <a href="https://github.com/atishayj4in/Dog_and_Cat_Classifier" target="blank"><img align="center" src="chatbot_ui.png" alt="Click here to view Chatbot Simulation Video" height="100%" width="100%" /></a>
+    
 ---
+
 # 🤖 Chatbot Setup Guide
 
 This guide walks you through the steps required to set up and run the chatbot locally using Streamlit and Groq LLM.
