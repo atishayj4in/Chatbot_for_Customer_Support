@@ -11,8 +11,9 @@
 ◦ Achieved intelligent user interaction with styled avatars, session continuity, and confidence scoring, enhancing customer experience and support automation.
 <br>
 
-# Simulation Video
-[Click here to view Simulation of Customer Support Chatbot](https://console.groq.com/)
+<h3 align="left">Simulation:</h3>
+<p align="left">
+<a href="https://github.com/atishayj4in/Dog_and_Cat_Classifier" target="blank"><img align="center" src="github_images/Dog_and_Cat_Classifier.jpg" alt="atishayj4in" height="100%" width="100%" /></a>
 
 # 🤖 Chatbot Setup Guide
 
