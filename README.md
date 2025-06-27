@@ -13,7 +13,7 @@
 
 <h3 align="left">Simulation:</h3>
 <p align="left">
-<a href="https://github.com/atishayj4in/Dog_and_Cat_Classifier" target="blank"><img align="center" src="github_images/Dog_and_Cat_Classifier.jpg" alt="atishayj4in" height="100%" width="100%" /></a>
+<a href="https://github.com/atishayj4in/Dog_and_Cat_Classifier" target="blank"><img align="center" src="chatbot_ui.png" alt="Click here to view Chatbot Simulation Video" height="100%" width="100%" /></a>
 
 # 🤖 Chatbot Setup Guide
 
